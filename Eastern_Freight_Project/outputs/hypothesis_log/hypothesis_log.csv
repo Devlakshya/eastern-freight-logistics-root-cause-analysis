@@ -1,0 +1,6 @@
+hypothesis_id,hypothesis,test,result,status
+H01,Warehouse dwell increased at specific hubs after July,Compare average dwell before and after July by hub group,Affected hubs: 5.03 to 12.05 hours; other hubs: 5.02 to 5.03 hours,Supported in synthetic pilot
+H02,Vehicle breakdowns contributed to lower OTD,Compare OTD for shipments with and without breakdowns,OTD 36.56% with breakdown vs 85.63% without,Strong association in synthetic pilot
+H03,The OTD decline was concentrated in three hubs,Compare monthly OTD by affected and other hub groups,Affected hubs fell to roughly 41-46% from July; other hubs stayed around 87-90%,Supported in synthetic pilot
+H04,Seasonal volume explains the main OTD decline,Compare monthly shipment volumes and OTD by hub group,"OTD decline began in July, before the October-November volume increase",Not supported as the main explanation
+H05,Operational metrics provide four weeks of advance warning,Inspect four-week rolling dwell and breakdown metrics before July,Alerts began after OTD deterioration started,Not demonstrated

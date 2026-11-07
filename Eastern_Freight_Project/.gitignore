@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Generated data (keep raw/cleaned files out of Git by default)
+data/raw/*.csv
+data/cleaned/*.csv
+data/raw/*.parquet
+data/cleaned/*.parquet
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/

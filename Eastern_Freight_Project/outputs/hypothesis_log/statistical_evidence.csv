@@ -1,0 +1,4 @@
+test,statistic,p_value,interpretation
+Chi-square: OTD vs breakdown,707.88,5.778266550321827e-156,Strong association between breakdown status and OTD
+Chi-square: OTD before vs after July in affected hubs,587.88,7.236641318830558e-130,Strong difference in OTD before and after July
+Welch t-test: dwell before vs after July in affected hubs,-146.56,0.0,Strong difference in average dwell time
